@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"335373912c12e507","type":"link","url":"https://mrseyed.github.io","x":560,"y":-126,"width":397,"height":886,"color":"2"},
+		{"id":"623103aad4bcd125","type":"text","text":"[obsidian://open?vault=Notes&file=%D8%A8%DB%8C%E2%80%8C%D9%86%D8%A7%D9%85.canvas]()","x":120,"y":530,"width":360,"height":150,"color":"4"}
+	],
+	"edges":[
+		{"id":"f773486b59ecd8ca","fromNode":"623103aad4bcd125","fromSide":"bottom","toNode":"335373912c12e507","toSide":"bottom"}
+	]
+}

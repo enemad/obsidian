@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c7bc8413bf160606","x":0,"y":-108,"width":322,"height":148,"color":"4","type":"text","text":"obsidian://open?vault=Bank&file=BMI%2FBMI1%2Fbmi1"},
+		{"id":"51a4515af7f2fbf9","x":-99,"y":200,"width":520,"height":516,"color":"#0000ff","type":"file","file":"BMI/BMI1/bmi1.md"}
+	],
+	"edges":[
+		{"id":"b7221cbd936a7d64","fromNode":"c7bc8413bf160606","fromSide":"bottom","toNode":"51a4515af7f2fbf9","toSide":"top","toEnd":"none","color":"1"}
+	]
+}
