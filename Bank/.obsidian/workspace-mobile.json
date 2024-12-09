@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Olgoo/حساب.md",
-                "mode": "preview",
+                "file": "BMI/MEHRABANI/MEHRABANI.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "حساب"
+              "title": "MEHRABANI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "BSI/BSI1/BSI.md",
+            "file": "فهرست.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,22 +162,22 @@
       "command-palette:گشودنِ فرمان‌دان": false
     }
   },
-  "active": "805632c3bfaf9154",
+  "active": "e5a1ea909bc3c2f4",
   "lastOpenFiles": [
+    "Olgoo/حساب.md",
+    "MELLAT/Mellat.md",
+    "فهرست.md",
+    "Olgoo/کارت.md",
     "MELLAT/card.png",
     "Olgoo/BSI1/BSI.md",
     "wZ.png",
     "BKI",
-    "Olgoo/حساب.md",
-    "Olgoo/کارت.md",
-    "MELLAT/Mellat.md",
     "MELLAT",
     "BSI/بانک صادرات.jpg",
     "Olgoo/BSI1/aaa.md",
     "بی‌نام 1.md",
     "BMI/BMI1/bmi1.md",
     "بی‌نام.md",
-    "فهرست.md",
     "BMI/MEHRABANI/MEHRABANI.md",
     "Sahel-Black-FD-WOL 1.ttf",
     "Sahel-Black-FD-WOL.ttf",
@@ -197,7 +198,6 @@
     "_1300.png",
     "1_14238792117.png",
     "تت.md",
-    "BMI/BMI1/اطلاعات حساب اصلی.png",
     "ggg.md",
     "بی‌نام.canvas",
     "().md",

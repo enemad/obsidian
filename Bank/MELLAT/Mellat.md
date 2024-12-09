@@ -24,13 +24,13 @@
         <tr>
           <td bgcolor="#606060" style="font-weight:bold; color:yellow"  >شماره حساب</td>
           <th style="background-color: #CCFFCC; text-align:center; color: green" width="70%" >
-         ***
+         9961889674
           </th>
         </tr>
         <tr>
           <td bgcolor="#606060" style="font-weight:bold; color:yellow"  >شماره شبـا</td>
           <th style="background-color: #CCFFFF; text-align:center; color: brown" width="70%" >
-         **
+         IR690120010000009961889674
           </th>
         </tr>
     </table>
@@ -71,7 +71,7 @@
         </tr>
         <tr>
           <th style="background-color: #CCFFFF; text-align:center; color: brown"  colspan="5" >
-         <img src="./card.png">
+         <img src="https://enemad.github.io/obsidian/Bank/MELLAT/card.png">
           </th>
         </tr>
          <tr>
@@ -84,7 +84,7 @@
          اصلی
           </th>
           <th colspan="3" >
-          **
+          9961889674
          </th>
         </tr>
          <tr>
@@ -95,6 +95,22 @@
           **
          </th>
         </tr>
+    </table>
+</div>
+
+<div style="margin-top: -10px" >
+    <table style="border: 5px ridge orange" >
+     <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; font-size:27px" >همراه بانک</td>
+     </tr>
+     <tr style="height:15pt" >
+      <th style="font-weight: bold; text-align:center; font-size: 22px" bgcolor="red" width="30%" >نام کاربری</th>
+      <th style="color:gold; text-align: center; font-weight:bold; " bgcolor="orange" width="30%"  >09139977003</th>
+     </tr>
+     <tr style="height:15pt" >
+      <th style="font-weight: bold; text-align:center; font-size: 22px" bgcolor="red" width="30%" >رمزعبور</th>
+      <th style="color:gold; text-align: center; font-weight:bold; " bgcolor="orange" width="30%"  >MrSeyed@1370</th>
+     </tr>
     </table>
 </div>
 </center>
